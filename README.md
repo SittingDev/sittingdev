@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ... *The SittingDev website built with Hugo (SSG)*
+- 🌱 I’m currently learning ... *Flask!*
+- 💬 Ask me about ... *I have worked in SEO for 9 years and front-end for 17 years.*
+- 📫 How to reach me: ... *[https://twitter.com/sittingdev](https://twitter.com/sittingdev)*
+- ⚡ Fun fact: ... *I won several web design awards, but when I did so I had not been working as a web designer in 8 years.*
+
 <!--
 **SittingDev/sittingdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
