@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... *The SittingDev website built with Hugo (SSG)*
+- 🔭 I’m currently working on ... *[https://sittingdev.com/](https://sittingdev.com/)*
 - 🌱 I’m currently learning ... *Flask!*
 - 💬 Ask me about ... *I have worked in SEO for 9 years and front-end for 17 years.*
 - 📫 How to reach me: ... *[https://twitter.com/sittingdev](https://twitter.com/sittingdev)*
